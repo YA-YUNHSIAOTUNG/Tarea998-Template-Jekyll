@@ -8,88 +8,75 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Hsiao Tung Ya-Yun
-  #tagline: Full Stack Developer
+  name: Alan Doe
+  tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: l21530294@cancun.tecnm.mx
-  phone: 998 148 1800
-  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: example@email.com
+  phone: 012 345 6789
+  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  #linkedin: alandoe
-  #xing: alandoe
-  github: Hsiao Tung Ya-Yun
-  #telegram: # add your nickname without '@' sign
-  #gitlab:
-  #bitbucket:
-  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  #twitter: '@jekyllrb'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
+  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: alandoe
+  xing: alandoe
+  github: jekyll
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jekyllrb'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Idioma
+    title: Languages
     info:
-    - idiom: Mandarin
-      level: Nativo
+    - idiom: English
+      level: Native
 
-    - idiom: Español
-      #level: Professional
+    - idiom: French
+      level: Professional
 
-    - idiom: Ingles
-      level: Basico
+    - idiom: Spanish
+      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Escuchar musica
+    - item: Climbing
       link:
 
 
-    - item: Natacion
+    - item: Snowboarding
       link:
 
 
-    - item: Ver series y animes
+    - item: Cooking
       link:
 
 
 career-profile:
-  title: Acerca de mi
+  title: Career Profile
   summary: |
-    Soy una joven de 21 años, egresada del Belisario Domínguez Federal No. 6 y
-    del CBTIS 111 Leona Vicario. Actualmente soy estudiante del Instituto Tecnológico de Cancún, 
-    buscando ampliar mis conocimientos y habilidades en diferentes ámbitos. Aunque no tengo 
-    mucha experiencia laboral hasta el momento, me ha interesado en áreas como de musica,
-    poquito del soporte y mantenimiento de equipos de cómputo, área en la que me formé durante la preparatoria. 
-    A pesar de que la pandemia limitó la práctica directa en este campo, conozco lo básico sobre 
-    el funcionamiento de las computadoras, su mantenimiento y las partes que las componen.
-
-    He comenzado a explorar el mundo del desarrollo web, creando una página básica utilizando HTML y CSS
-    y aunque no tengo mucha experiencia en programación. 
-    Me gustaría aprender nuevas habilidades y mejorar cada vez que enfrento un reto.
-    Soy una persona organizada, responsable, honesta y con buenas habilidades interpersonales. 
-    Me esfuerzo por ser empática, respetuosa y mantener siempre un ambiente positivo 
-    con las personas que me rodean. A veces me estreso con facilidad y no soy la más rápida aprendiendo, 
-    pero siempre trato de dar lo mejor de mí, esforzándome por cumplir con todas mis tareas 
-    de manera puntual y con la mejor calidad posible.En mi tiempo libre, disfruto de escuchar música, 
-    ver series y animes. Creo que estas actividades me ayudan a desconectar y a mantenerme motivada.
-
-
-    education:
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
+education:
   title: Education
   info:
-  - degree: Ingenieria en Sistemas Computacionales
-    university: Instituto Tecnologico de Cancun
-    time: 2021 - Actualmente
-    #details: |
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -97,9 +84,9 @@ career-profile:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: Tecnico en Soporte y Mantenimiento en Equipo de Computo
-    university: CBTIS 111 Leona Vicario
-    time: 2018 - 2021
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -274,26 +261,26 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Habilidades y competencias
+  title: Skills &amp; Proficiency
 
-#  toolset:
-#  - name: Python & Django
-#    level: 98%
+  toolset:
+  - name: Python & Django
+    level: 98%
 
-#  - name: Javascript & jQuery
-#    level: 98%
+  - name: Javascript & jQuery
+    level: 98%
 
-#  - name: Angular
-#    level: 98%
+  - name: Angular
+    level: 98%
 
-  - name: HTML & CSS
-    level: 25%
+  - name: HTML5 & CSS
+    level: 95%
 
-#  - name: Ruby on Rails
-#    level: 85%
+  - name: Ruby on Rails
+    level: 85%
 
-#  - name: Sketch & Photoshop
-#    level: 60%
+  - name: Sketch & Photoshop
+    level: 60%
 
 footer: >
-  Hsiao Tung Ya-Yun &copy;2025
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
