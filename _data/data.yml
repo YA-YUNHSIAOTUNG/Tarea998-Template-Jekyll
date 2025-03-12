@@ -8,17 +8,17 @@ sidebar:
   avatar: profile.jpg
   email: l21530294@cancun.tecnm.mx
   phone: 998 148 1800
-  timezone: America/Cancun
+  timezone: Quintana Roo/Cancun
   citizenship: null
   website: https://ya-yunhsiaotung.github.io/Tarea998-Template-Jekyll/
-  linkedin: alandoe
-  xing: alandoe
+  linkedin: null
+  xing: null
   github: Hsiao Tung Ya-Yun
   telegram: null
   gitlab: null
   bitbucket: null
-  bluesky: "@jekyllrb.bsky.social"
-  twitter: "@jekyllrb"
+  bluesky: null
+  twitter: null
   stack-overflow: null
   codewars: null
   goodreads: null
@@ -154,15 +154,13 @@ recommendations:
       phone: 012 345 6789
       role: General Director at example.com
       recommendation: |
-        Alan Doe is a super employee!
+        Ya-Yun es una persona amigable,buena!
     - person: Lara Henderson
       email: larah@example.com
       phone: 012 345 6789
       role: General Director at example.com
       recommendation: |
-        I would like to work with Alan Doe again!
-
-        He is a great employee!
+        Es divertido trabajar con Ya-Yun!
 skills:
   title: Skills &amp; Proficiency
   toolset:
