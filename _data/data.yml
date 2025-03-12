@@ -31,17 +31,17 @@ sidebar:
 
     - idiom: Español
 
-    - idiom: Inglés
+    - idiom: Ingles
       level: Básico
 
   interests:
     title: Interests
     info:
-    - item: Escuchar música
+    - item: Escuchar musica
       link:
 
 
-    - item: Natación
+    - item: Natacion
       link:
 
 
@@ -52,8 +52,8 @@ sidebar:
 career-profile:
   title: Acerca de mi
   summary: |
-Soy una joven de 21 años, egresada del Belisario Domínguez Federal No. 6 y del CBTIS 111 Leona Vicario. 
-Actualmente soy estudiante del Instituto Tecnológico de Cancún,buscando ampliar mis conocimientos y habilidades en diferentes ámbitos.
+Soy una joven de 21 años, egresada del Belisario Dominguez Federal No. 6 y del CBTIS 111 Leona Vicario. 
+Actualmente soy estudiante del Instituto Tecnológico de Cancún,buscando ampliar mis conocimientos y habilidades en diferentes ambitos.
 Aunque no tengo mucha experiencia laboral hasta el momento, me he interesado en áreas como el soporte y mantenimiento de equipos 
 de cómputo, área en la que me formé durante la preparatoria. A pesar de que la pandemia limitó la práctica directa en este campo, 
 conozco lo básico sobre el funcionamiento de las computadoras, su mantenimiento y las partes que las componen.
@@ -198,7 +198,7 @@ y puede dar soporte a usuarios, explicándoles cómo resolver problemas comunes 
 
       He is a great employee!
 
-#skills:
+skills:
   title: Habilidades y competencias
 
   toolset:
