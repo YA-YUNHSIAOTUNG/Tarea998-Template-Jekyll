@@ -29,9 +29,9 @@ sidebar:
   #stack-overflow: # Number/Username, e.g. 123456/alandoe
   #codewars:
   #goodreads: # Number-Username, e.g. 123456-alandoe
-  #mastodon: # Please include your full Mastodon link here.
-  #hackerrank: # Please provide your HackerRank username.
-  #leetcode: # Please provide your LeetCode username.
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: Acerca de mi
   summary: |
-    Soy una joven de 21 años, egresada del Belisario Domínguez Federal No. 6 y 
+    Soy una joven de 21 años, egresada del Belisario Domínguez Federal No. 6 y
     del CBTIS 111 Leona Vicario. Actualmente soy estudiante del Instituto Tecnológico de Cancún, 
     buscando ampliar mis conocimientos y habilidades en diferentes ámbitos. Aunque no tengo 
     mucha experiencia laboral hasta el momento, me ha interesado en áreas como de musica,
@@ -81,7 +81,9 @@ career-profile:
     pero siempre trato de dar lo mejor de mí, esforzándome por cumplir con todas mis tareas 
     de manera puntual y con la mejor calidad posible.En mi tiempo libre, disfruto de escuchar música, 
     ver series y animes. Creo que estas actividades me ayudan a desconectar y a mantenerme motivada.
-education:
+
+
+    education:
   title: Education
   info:
   - degree: Ingenieria en Sistemas Computacionales
@@ -294,4 +296,4 @@ skills:
 #    level: 60%
 
 footer: >
-  Hsiao Tung Ya-Yun &copy;
+  Hsiao Tung Ya-Yun &copy;2025
